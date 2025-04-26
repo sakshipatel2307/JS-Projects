@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to left, rgb(98, 90, 132), rgb(101, 123, 150));
+    color: black;
+}
+h1
+{
+    font-size: 600;
+    text-align: center;
+    margin: 20px 0;
+}
+table
+{
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 60%;
+    background-color: rgb(172, 172, 224);
+    border: 2px solid black;
+}
+table tr td
+{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black; 
+    font: 600;  
+}
